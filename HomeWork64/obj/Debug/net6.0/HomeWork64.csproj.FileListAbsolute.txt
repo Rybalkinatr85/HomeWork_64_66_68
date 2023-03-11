@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\bin\Debug\net6.0\HomeWork64.exe
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\bin\Debug\net6.0\HomeWork64.deps.json
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\bin\Debug\net6.0\HomeWork64.runtimeconfig.json
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\bin\Debug\net6.0\HomeWork64.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\bin\Debug\net6.0\HomeWork64.pdb
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\refint\HomeWork64.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.pdb
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\HomeWork64.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Recurcys\HomeWork64\obj\Debug\net6.0\ref\HomeWork64.dll
